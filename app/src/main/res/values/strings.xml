@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RaspberryCommunication</string>
+    <string name="action_settings">Settings</string>
+    <string name="boiler_button">Boiler</string>
+    <string name="klima_button">Klima</string>
+    <string name="klima_status">Status:Unknown</string>
+    <string name="boiler_status">Status:Unknown</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="home_logo">home_logo</string>
+    <string name="vlez_kopche">vlez_button</string>
+
+</resources>
